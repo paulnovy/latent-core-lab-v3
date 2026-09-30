@@ -1,0 +1,11 @@
+# Only the reviewed public research package is tracked.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/evidence.md
+!data/
+!data/results.csv
+!assets/
+!assets/results.png
+!assets/results.svg
